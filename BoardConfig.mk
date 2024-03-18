@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2023-2024 The LineageOS Project
+# Copyright (C) 2023-2024 voltageOS
 #
 # SPDX-License-Identifier: Apache-2.0
 #
