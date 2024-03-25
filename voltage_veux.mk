@@ -28,6 +28,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 # Inherit some common device props
 TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_SUPPORTS_QUICK_TAP := true
+TARGET_SUPPORTS_BLUR := true
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="veux_global-user 13 TKQ1.221114.001 V14.0.6.0.TKCMIXM release-keys" \
