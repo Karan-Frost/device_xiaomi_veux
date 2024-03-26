@@ -9,3 +9,6 @@ git clone https://gitlab.com/Karan-Frost/vendor_xiaomi_veux.git -b fourteen vend
 
 echo "Cloning MIUI Cam..."
 git clone https://gitlab.pixelexperience.org/android/vendor-blobs/vendor_xiaomi_miuicamera-veux.git -b fourteen vendor/xiaomi/miuicamera-veux
+
+echo "Cloning hardware/xiaomi..."
+git clone https://github.com/PixelExperience/hardware_xiaomi.git -b fourteen hardware/xiaomi
