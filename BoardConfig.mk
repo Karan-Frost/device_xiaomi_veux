@@ -86,7 +86,6 @@ BOARD_KERNEL_CMDLINE := \
 
 TARGET_KERNEL_CONFIG := veux_defconfig
 TARGET_KERNEL_SOURCE := kernel/xiaomi/sm6375
-TARGET_KERNEL_NO_GCC := true
 
 # OTA assert
 TARGET_OTA_ASSERT_DEVICE := peux,veux
